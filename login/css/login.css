@@ -1,0 +1,23 @@
+body {
+    background-color: #eee;
+}
+
+.login-card {
+    /* background: #eee; */
+    /* border: 2px solid gray; */
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+    background-color: white;
+}
+
+.input-error {
+    color: red;
+}
+
+.title::before {
+    content: "";
+    border: 1px solid #e5e5e5;
+    width: 40px;
+    left: 130px;
+    top: 40px;
+}
