@@ -61,4 +61,4 @@ typings/
 .next
 
 # sendgrid api key
-./backend/tecbackend/sendgrid.env
+backend/tecbackend/sendgrid.env
